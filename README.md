@@ -29,15 +29,15 @@ Before you get started, make sure you have the following prerequisites installed
    ```shell
    npm install
 
-4. Open the Cypress Test Runner
+4. Open the Cypress Test Runner:
    ```shell
    npx cypress open
 
-5. Cypress will open. Click on E2E Testing
+5. Cypress will open. Click on E2E Testing.
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136401375/274780580-cb8626c6-5023-4af8-bc48-51fe51debacc.png"  width="600" height="auto">
 
-6. Choose the Chrome browser and click on Start E2E Testing in Chrome
+6. Choose the Chrome browser and click on Start E2E Testing in Chrome.
 <img src="https://user-images.githubusercontent.com/136401375/274777666-04cf1433-0f96-42e6-b7e3-43a0d79901a1.png"  width="600" height="auto">
 
-7. A list of specs will appear. Click on one to run Cypress test
+7. A list of specs will appear. Click on one to run the Cypress test.
 <img src="https://github.com/Bertinaoz/testing-the-internet-cypress/assets/136401375/7f9ba237-3e20-4f0a-ad3d-7cde3e0964f4" width="600" height="auto">
